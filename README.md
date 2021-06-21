@@ -1,2 +1,2 @@
 # capstone
-Fin al project of the Front End  Nano Degree - Build  Travel app
+Final project of the Front End  Nano Degree - Build  Travel app
